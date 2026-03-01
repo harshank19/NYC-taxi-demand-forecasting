@@ -2,6 +2,8 @@
 
 Scalable spatiotemporal forecasting framework for hourly taxi demand using 31.86M NYC Yellow Taxi trips.
 
+Full Report: [NYC_Taxi_Report.pdf](https://drive.google.com/file/d/1iw8-M8qsIAONGD-YZX7EYHDpqMJ35BII/view?usp=sharing)
+
 ## Overview
 
 This project builds a high-resolution hourly demand forecasting system for NYC taxi zones using structured temporal feature engineering and ensemble regression.
